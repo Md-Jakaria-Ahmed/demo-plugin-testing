@@ -9,3 +9,9 @@
 * Lisence: GPL V2
 * Text Domain: demopracticeplugin
 */
+
+// don't call the file directly
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
+
